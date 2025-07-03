@@ -3,9 +3,9 @@ entries:
   sei-app:
   - apiVersion: v2
     appVersion: 3.6.8
-    created: "2025-07-03T10:16:11.477992-03:00"
+    created: "2025-07-03T10:59:19.38862-03:00"
     description: Helm chart para subir o nó de aplicação do SEI-5 / Agendador / Ingress
-    digest: cfc339f06528c7459811337ca07b8e63b7243e68cd3e8fd90c141e04fe5a952a
+    digest: 4f2c292d246b2dbb10eb19d9c94f2de453ffce049b9700c1b82e9d57ad059003
     icon: https://raw.githubusercontent.com/pengovbr/sei-helm/refs/heads/main/apoio/imagens/phplogo.png
     name: sei-app
     type: application
@@ -14,7 +14,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 3.6.8
-    created: "2025-07-03T10:16:11.47739-03:00"
+    created: "2025-07-03T10:59:19.388114-03:00"
     description: Helm chart para subir o nó de aplicação do SEI-5 / Agendador / Ingress
     digest: 35ada9f757189e8e2c87cd1876c41426c5115c8791e378011936dcf1424e1a98
     icon: https://raw.githubusercontent.com/pengovbr/sei-helm/refs/heads/main/apoio/imagens/phplogo.png
@@ -26,9 +26,9 @@ entries:
   sei-db:
   - apiVersion: v2
     appVersion: 3.6.8
-    created: "2025-07-03T10:16:11.478451-03:00"
+    created: "2025-07-03T10:59:19.389053-03:00"
     description: Helm chart com o banco de dados MariaDb para o SEI-5
-    digest: c2534fc63e2565092aecb4083d6bbe755025bba7fa2aaf7b643b7ed5ad4b1ca6
+    digest: e802cdd3d5bce8f1ebd474c8a69f4b4d1285678c3c8ac6ba0e9633f14e9c9f1b
     icon: https://raw.githubusercontent.com/pengovbr/sei-helm/refs/heads/main/apoio/imagens/mariadblogo.png
     name: sei-db
     type: application
@@ -37,7 +37,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 3.6.8
-    created: "2025-07-03T10:16:11.478311-03:00"
+    created: "2025-07-03T10:59:19.388921-03:00"
     description: Helm chart com o banco de dados MariaDb para o SEI-5
     digest: 7eb71f0b31fc2453595d805284aa89ce06fc3df32136dbab59aa6fbe33c22731
     icon: https://raw.githubusercontent.com/pengovbr/sei-helm/refs/heads/main/apoio/imagens/mariadblogo.png
@@ -49,9 +49,9 @@ entries:
   sei-jod:
   - apiVersion: v2
     appVersion: 3.6.8
-    created: "2025-07-03T10:16:11.478804-03:00"
+    created: "2025-07-03T10:59:19.389403-03:00"
     description: Helm chart para subir o JOD para o SEI-5
-    digest: 8878752807a62f1f091c4b680b03e1bec28ae0ddd86ff1da3214e478ea707388
+    digest: bc5950883eadc920445911fb75774607deb103c254184eb2fcb1427ca650bc74
     icon: https://raw.githubusercontent.com/pengovbr/sei-helm/refs/heads/main/apoio/imagens/jodlogo.png
     name: sei-jod
     type: application
@@ -60,7 +60,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 3.6.8
-    created: "2025-07-03T10:16:11.47869-03:00"
+    created: "2025-07-03T10:59:19.389294-03:00"
     description: Helm chart para subir o JOD para o SEI-5
     digest: 0f43c1ff8ac4e3fe09ea0d50e65fb62d5e679b2b9169ba18c4ed0d50f071d3bc
     icon: https://raw.githubusercontent.com/pengovbr/sei-helm/refs/heads/main/apoio/imagens/jodlogo.png
@@ -72,9 +72,9 @@ entries:
   sei-memcached:
   - apiVersion: v2
     appVersion: 3.6.8
-    created: "2025-07-03T10:16:11.479247-03:00"
+    created: "2025-07-03T10:59:19.38977-03:00"
     description: Helm chart para subir o memcached para o SEI
-    digest: a438f0d3e6a099b2b0d4fa9a5a61fa5057c11e204de19c21395d612b926a12e1
+    digest: cd25bc208caa8ea40c43f87469feacedf00a96e7082a8e39f08a34f4d5d0f838
     icon: https://raw.githubusercontent.com/pengovbr/sei-helm/refs/heads/main/apoio/imagens/memcachedlogo.png
     name: sei-memcached
     type: application
@@ -83,7 +83,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 3.6.8
-    created: "2025-07-03T10:16:11.4791-03:00"
+    created: "2025-07-03T10:59:19.389647-03:00"
     description: Helm chart para subir o memcached para o SEI
     digest: 0760e7946cc672e2b72180f1081127dca1534e58cdc0879d9e4a5ecdc6e4a72e
     icon: https://raw.githubusercontent.com/pengovbr/sei-helm/refs/heads/main/apoio/imagens/memcachedlogo.png
@@ -95,9 +95,9 @@ entries:
   sei-solr:
   - apiVersion: v2
     appVersion: 3.6.8
-    created: "2025-07-03T10:16:11.479718-03:00"
+    created: "2025-07-03T10:59:19.390221-03:00"
     description: Helm chart para subir o SOLR para o SEI-5
-    digest: d8f5f2efa65fbc64541ab91833a227b3ec66651f5eac1ed7ce19e0478ce4ba37
+    digest: e7853c0b356d61ac576a7b256fee3eaed84201b301ca831f81c30537259dfe61
     icon: https://raw.githubusercontent.com/pengovbr/sei-helm/refs/heads/main/apoio/imagens/solrlogo.png
     name: sei-solr
     type: application
@@ -106,7 +106,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 3.6.8
-    created: "2025-07-03T10:16:11.479557-03:00"
+    created: "2025-07-03T10:59:19.390083-03:00"
     description: Helm chart para subir o SOLR para o SEI-5
     digest: 5fe120ed840bf0bb789a530d942e697e42aa0d47ac9d794c3f9e7a7cc3b4524d
     icon: https://raw.githubusercontent.com/pengovbr/sei-helm/refs/heads/main/apoio/imagens/solrlogo.png
@@ -118,7 +118,7 @@ entries:
   sei-umbrella:
   - apiVersion: v2
     appVersion: 3.6.8
-    created: "2025-07-03T10:16:11.482854-03:00"
+    created: "2025-07-03T10:59:19.392935-03:00"
     dependencies:
     - name: sei-app
       repository: file://../sei-app
@@ -138,7 +138,7 @@ entries:
     description: Helm chart para subir todos os componentes para o SEI5. Embora seja
       a abordagem mais rápida, opte por publicar todos os elementos separadamente.
       Verifique a documentação para melhor entendimento dessa orientação.
-    digest: 70dda10e01af7cf40fcdac4d3afb6c3244a29aa2ec6f7620d202e123fe26b7b7
+    digest: 4898c350f51a8c2954f87c3bbcc2481ab150518b0ac87eeb6e213aea5026be8c
     icon: https://raw.githubusercontent.com/pengovbr/sei-helm/refs/heads/main/apoio/imagens/seidevlogo.png
     name: sei-umbrella
     type: application
@@ -147,7 +147,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: 3.6.8
-    created: "2025-07-03T10:16:11.480878-03:00"
+    created: "2025-07-03T10:59:19.391886-03:00"
     dependencies:
     - name: sei-app
       repository: file://../sei-app
@@ -174,4 +174,4 @@ entries:
     urls:
     - https://pengovbr.github.io/sei-helm-repo/sei-umbrella-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-03T10:16:11.475424-03:00"
+generated: "2025-07-03T10:59:19.387267-03:00"
